@@ -45,6 +45,7 @@ body
     width: 150px;
     height: 150px;
     display: flex;
+    flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
     color: white;
