@@ -12,10 +12,10 @@ A simple drum kit application that allows users to play drum sounds by pressing 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yoamzil/drum-kit.git
+    git clone https://github.com/yoamzil/DrumKit.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd drum-kit
+    cd DrumKit
     ```
 3. Open `index.html` in your web browser.
