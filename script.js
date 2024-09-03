@@ -1,5 +1,5 @@
 function playSound(e) {
-    const keyCode = e.keyCode || e.target.getAttribute('data-key');
+    const keyCode = e.keyCode || e.currentTarget.getAttribute('data-key');
     const audio = document.querySelector(`audio[data-key="${keyCode}"]`);
     const key = document.querySelector(`.button[data-key="${keyCode}"]`);
     console.log(audio);
