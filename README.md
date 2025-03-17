@@ -9,18 +9,6 @@ A simple drum kit application that allows users to play drum sounds by pressing 
 - Play drum sounds by clicking on buttons.
 - Visual feedback when a key is pressed or a button is clicked.
 
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yoamzil/DrumKit.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd DrumKit
-    ```
-3. Open `index.html` in your web browser.
-
 ## Live Demo
 
-Check out the live demo of the Drum Kit application [here](https://yoamzil.github.io/DrumKit/).
+Check out the live demo of the Drum Kit application [here](https://yoamzildrumkit.vercel.app/).
